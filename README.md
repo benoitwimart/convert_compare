@@ -1,3 +1,5 @@
+![GIF 2 couleurs](./gif-2-couleurs/0029.gif)
+
 # Comparaison entre différents formats
 100 images PNG + ImageMagick (RTFM) + chatGPT
 ## conversion en WebP 80
