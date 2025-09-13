@@ -1,5 +1,11 @@
 ![GIF 2 couleurs](./gif-2-couleurs/0029.gif)
 
+```
+chmod +x png2jpg.sh
+```
+```
+./png2jpg.sh 60 *.png    
+```
 # Comparaison entre différents formats
 100 images PNG + ImageMagick (RTFM) + chatGPT
 ## conversion en WebP 80 (sans trame)
