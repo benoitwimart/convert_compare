@@ -1,10 +1,12 @@
 ![GIF 2 couleurs](./gif-2-couleurs/0029.gif)
 
+Rendre exécutable le script .sh
 ```
 chmod +x png2jpg.sh
 ```
+Le lancer avec ./  et le chemin des png
 ```
-./png2jpg.sh 60 *.png    
+./png2jpg.sh 60 png/*.png    
 ```
 # Comparaison entre différents formats
 100 images PNG + ImageMagick (RTFM) + chatGPT
