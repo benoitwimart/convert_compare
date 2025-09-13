@@ -2,17 +2,17 @@
 
 # Comparaison entre différents formats
 100 images PNG + ImageMagick (RTFM) + chatGPT
-## conversion en WebP 80
+## conversion en WebP 80 (sans trame)
 bash png2webp.sh 80 *.png
-## conversion en WebP 60
+## conversion en WebP 60 (sans trame)
 bash png2webp.sh 60 *.png
 
-## conversion en JPEG 80
+## conversion en JPEG 80 (sans trame)
 bash png2jpeg.sh 80 *.png
-## conversion en JPEG 60
+## conversion en JPEG 60 (sans trame)
 bash png2jpeg.sh 60 *.png
 
-## conversion en GIF 2 couleurs
+## conversion en GIF 2 couleurs (avec trame)
 bash png2gif.sh 2 *.png
 
 ## comparaison des tailles
