@@ -24,7 +24,7 @@ bash png2gif.sh 2 *.png
 - jpeg 60 : 32.6 Mo
 - gif 2 couleurs : 33.2 Mo 
 
-Pour ceux qui veulent utiliser le script.
+Pour ceux qui veulent utiliser les scripts.
 1. Rendre exécutable le script .sh
 ```
 chmod +x png2jpg.sh
