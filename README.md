@@ -1,13 +1,6 @@
 ![GIF 2 couleurs](./gif-2-couleurs/0029.gif)
 
-Rendre exécutable le script .sh
-```
-chmod +x png2jpg.sh
-```
-Le lancer avec ./  et le chemin des png
-```
-./png2jpg.sh 60 png/*.png    
-```
+
 # Comparaison entre différents formats
 100 images PNG + ImageMagick (RTFM) + chatGPT
 ## conversion en WebP 80 (sans trame)
@@ -30,6 +23,16 @@ bash png2gif.sh 2 *.png
 - jpeg 80 : 50 Mo
 - jpeg 60 : 32.6 Mo
 - gif 2 couleurs : 33.2 Mo 
+
+Pour ceux qui veulent utiliser le script.
+1. Rendre exécutable le script .sh
+```
+chmod +x png2jpg.sh
+```
+2. Le lancer avec ./  et le chemin des png
+```
+./png2jpg.sh 60 png/*.png    
+```
 
 Les images viennent de ce dataset Kaggle :
 https://www.kaggle.com/datasets/soumikrakshit/div2k-high-resolution-images
